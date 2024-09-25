@@ -1,14 +1,14 @@
 {
     "tg": [
-        "7369215374:AAGh4lEKFkXfpOxlND6cGPNIpLPBTZK6F7M"
+        "7358197033:AAElKzyrGXRicnXseq1XRfrCLPbIpq-QTdU"
     ],
-    "prefix": "+",
+    "prefix": ".",
     "webhookURL": "your_webhookURL", 
     "supportGroupText": "Welcome to the bot! Type `help to see all available commands.\nJoin the support box to know how to use or how to create these types of bots: https://t.me/+YNKDd9_jIeYxNDQ1",
     "prefixText": "[🌐] System prefix:",
-    "botName": "Chatbot Ronald ",
+    "botName": "Chatbot chris ",
     "adminUids": [
-     "06061284"
+     "7465547647"
     ],
     "PORT": 3000,
     "note": "bot name is important but add a single name. add supportGroupText,add the webhookURL for spying : )"
